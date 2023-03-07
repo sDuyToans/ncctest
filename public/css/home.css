@@ -1,0 +1,6 @@
+.home-container {
+  display: flex;
+}
+.home-container .home-content {
+  width: 100%;
+}
